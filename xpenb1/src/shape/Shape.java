@@ -1,6 +1,6 @@
 package shape;
 
-import java.awt.*;
+import java.awt.Color;
 
 public abstract class Shape {
     public Color color = Color.white;
@@ -29,4 +29,6 @@ public abstract class Shape {
         System.out.println("Периметр: " + getPerimeter());
         System.out.println("Координаты точек: " + getCoordinates());
     }
+    protected abstract String getShapeName();
+    protected abstract double getCoordinates();
 }

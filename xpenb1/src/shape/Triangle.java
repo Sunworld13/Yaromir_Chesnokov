@@ -1,4 +1,4 @@
 package shape;
-
-public abstract class Triangle {
+import java.awt.*;
+public class Triangle {
 }

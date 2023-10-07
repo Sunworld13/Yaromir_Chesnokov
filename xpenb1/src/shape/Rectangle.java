@@ -1,5 +1,6 @@
 package shape;
+import java.awt.*;
 
-public abstract class Rectangle {
+public class Rectangle {
 
 }
