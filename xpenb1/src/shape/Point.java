@@ -20,3 +20,5 @@ public abstract class Point extends Shape
     }
     public s
 }
+
+fgfgdf
