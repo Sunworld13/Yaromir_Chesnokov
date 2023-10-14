@@ -1,5 +1,5 @@
 package shapes;
-import color.Color;
+import colors.Color;
 
 public abstract class Shape {
     private Color color = Color.TRANSPARENT;
