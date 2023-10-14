@@ -46,4 +46,5 @@ public class ShapesServiceImpl implements ShapesService {
 
         return setOfColors;
     }
+
 }

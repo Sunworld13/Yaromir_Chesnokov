@@ -44,5 +44,4 @@ public class Point extends Shape {
         System.out.println("Цвет точки: "+getColor());
         System.out.println(" ");
     }
-
 }

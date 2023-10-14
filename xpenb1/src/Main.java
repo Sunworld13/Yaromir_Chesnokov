@@ -18,6 +18,7 @@ public class Main {
 
 
 
+        //lets do
         List<Shape> shapes =new ArrayList<>();
         Point A = new Point(0,0);
         Point B = new Point(0,4);

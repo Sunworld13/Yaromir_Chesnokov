@@ -62,10 +62,4 @@ public class Rectangle extends Shape {
         System.out.println("Цвет: "+getColor());
         System.out.println(" ");
     }
-
-
-
-
-
-
 }

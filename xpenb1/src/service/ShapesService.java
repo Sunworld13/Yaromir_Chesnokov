@@ -9,4 +9,5 @@ public interface ShapesService {
     double getSquares(List<Shape> shapeList);
     double getMaxPerimeters(List<Shape> shapeList);
     Set<Color> getColors(List<Shape> shapeList);
+
 }

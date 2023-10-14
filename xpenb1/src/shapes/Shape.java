@@ -24,5 +24,4 @@ public abstract class Shape {
     public void move(double moveX, double moveY) {}
 
     public void draw() { }
-
 }

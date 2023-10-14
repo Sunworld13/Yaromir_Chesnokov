@@ -56,11 +56,4 @@ public class Circle extends Shape{
         System.out.println("Цвет круга: "+getColor());
         System.out.println(" ");
     }
-
-
-
-
-
-
-
 }
